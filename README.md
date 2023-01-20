@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujitha
-- 👀 I’m interested in Java, Spring Boot, Hibernate
-- 🌱 I’m currently learning Microservices 
+- 👀 I’m a full stack Java developer
+- 🌱 I’m currently learning React 
 
 <!---
 sujitha92/sujitha92 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
